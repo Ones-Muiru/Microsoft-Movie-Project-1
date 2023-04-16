@@ -1,6 +1,6 @@
 MICROSOFT MOVIE STUDIO PROJECT PROPOSAL
 
-![logo-microsoft-365](https://user-images.githubusercontent.com/128042986/232329225-11d941f9-1c39-49b1-b9ac-61634202565c.jpg)
+![MICRO_MOVIE PROJECT HEADER](https://user-images.githubusercontent.com/128042986/232330227-3329bef2-229b-4115-af09-b3b1844150e6.jpg)
 
 OVERVIEW
 
